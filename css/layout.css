@@ -1339,12 +1339,16 @@ margin: 0 auto;
   max-width: 50em; }
 
 
-  .episode2-section article {
-    padding-top: 25px;
-    padding-bottom: 25px;
-    min-height: 65vh;
-    max-width: 80%;
-  }
+.episode2-section article {
+padding-top: 25px;
+padding-bottom: 25px;
+min-height: 65vh;
+max-width: 80%;
+}
+
+#grid {
+  width: 56% !important;    
+}
 
 .section-1 {
   text-align: center;
